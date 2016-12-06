@@ -2,7 +2,7 @@
 """
 Created on Tue Nov  8 11:25:01 2016
  
-@author: cw186026
+@author: netwhitebread
 """
 #opening input file
 file = open('input.txt', 'r')
